@@ -25,8 +25,8 @@ export default function Features() {
           data-cursor="hover"
         >
           <div>
-            <h3 className="text-2xl font-serif">Variable Typography</h3>
-            <p className="text-secondary mt-2">Fluid scaling without 3D bloat.</p>
+            <h3 className="text-2xl font-serif">Sharp Typography</h3>
+            <p className="text-secondary mt-2">Thoughtfully paired serif & sans.</p>
           </div>
           <div className="flex-1 flex items-center justify-center overflow-hidden">
             <motion.span
@@ -69,7 +69,7 @@ export default function Features() {
         >
           <div>
             <h3 className="text-2xl font-serif">Dynamic Layouts</h3>
-            <p className="text-secondary mt-2">CSS Grid doing the heavy lifting.</p>
+            <p className="text-secondary mt-2">Grids that adapt to your story.</p>
           </div>
           <div className="flex-1 mt-6 grid gap-4 w-full h-full"
                style={{
